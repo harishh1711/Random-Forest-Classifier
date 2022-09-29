@@ -1,5 +1,5 @@
 # Random-Forest-Classifier
-Install the required Libraries
-Change the path in the python code
-Cofir both dataset and python file are in same directory
-Run the code
+1)Install the required Libraries
+2)Change the path in the python code
+3)Confirm both dataset and python file are in same directory
+4)Run the code
